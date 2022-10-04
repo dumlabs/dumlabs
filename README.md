@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @keni95
+- 👋 Hi, I’m @dumlabs 
 - 👀 I’m interested in music and antyhing that involves creation or design. 
 - 🌱 I’m currently learning Python. life-long learning 
 - 💞️ I’m looking to collaborate on apps and music. lets make something fresh. 
